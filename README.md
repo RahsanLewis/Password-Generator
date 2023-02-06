@@ -34,7 +34,7 @@ Deployment link:
 
 Follow a series of prompts and create a random password.
 
-<img src="./images/passwordgeneratorpic.jpg" alt="Password Generator" />
+![Screenshot](./Images/passwordgenerator.jpg)
 
 ## Credits
 
