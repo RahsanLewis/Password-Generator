@@ -28,7 +28,7 @@ THEN the password is either displayed in an alert or written to the page
 
 ## Installation
 
-Deployment link: 
+Deployment link: https://rahsanlewis.github.io/Password-Generator/
 
 ## Usage
 
